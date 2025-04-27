@@ -82,13 +82,13 @@ Simple input form asking for one or multiple URLs.
 https://developer.intuit.com, https://quickbooks.intuit.com
 
 
-###-->        **Click Search:**
+### -->        **Click Search:**
 Backend fetches real-user metrics for the URLs.
 
 
 ### -->        **Results Table:**
 
-###-->        **Columns like:** 
+### -->        **Columns like:** 
 URL, FCP, LCP, CLS, INP Values are neatly populated. 
 Sorting icons available at each column header.
 
