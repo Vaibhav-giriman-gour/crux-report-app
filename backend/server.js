@@ -63,7 +63,11 @@ const server = http.createServer(async (req, res) => {
                 res.end(JSON.stringify({ error: "Failed to fetch the API Data." }));
             }
         });
-    } else {
+    }else if (req.url === "/healthz" && req.method === "GET") {
+        // Adding Health Check 
+        res.writeHead(200, { "Content-Type": "text/plain" });
+        res.end("OK");} 
+    else {
         res.writeHead(404, { "Content-Type": "application/json" });
         res.end(JSON.stringify({ error: "Route not found" }));
     }
