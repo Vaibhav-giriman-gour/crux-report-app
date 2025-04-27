@@ -71,7 +71,7 @@ Displays proper messages if URL is invalid or API call fails.
 
 ## 🎥 Demo Preview
 
-![Demo](src/demo/crux-report-app.gif)
+![Demo](src/demo/crux-report-app1.gif)
 ## 📹 Demo Walkthrough
 
 ### -->        **Landing Page:** 
