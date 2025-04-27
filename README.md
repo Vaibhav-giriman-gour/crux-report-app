@@ -71,15 +71,15 @@ Displays proper messages if URL is invalid or API call fails.
 
 ## 🎥 Demo Preview
 
-![Demo](demo/crux-report-app.gif)
+![Demo](src/demo/crux-report-app.gif)
 ## 📹 Demo Walkthrough
 
 ### -->        **Landing Page:** 
 Simple input form asking for one or multiple URLs.
 
 
-###-->        **User Input:** Example:
-           https://developer.intuit.com, https://quickbooks.intuit.com
+### -->        **User Input:** Example:
+https://developer.intuit.com, https://quickbooks.intuit.com
 
 
 ###-->        **Click Search:**
