@@ -1,6 +1,6 @@
 # 🚀 Chrome UX Report App 
 A full-stack web application that fetches and displays real-world performance metrics from the Chrome UX (CrUX) API based on user-entered URLs.
-Built with React, Material-UI, Node.js, and Express.
+Built with React, Material-UI, Node.js.
 
 ## 📦 Tech Stack
 Frontend: React, Vite, Material UI
